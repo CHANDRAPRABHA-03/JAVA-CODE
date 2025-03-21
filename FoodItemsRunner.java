@@ -1,0 +1,54 @@
+public class FoodItemsRunner{
+public static void main(String[] args){
+	String Food = "Chicken Kabab";
+	FoodItems.Foods(Food);
+	Food = "Chicken Kabab";
+	FoodItems.Foods(Food);
+	Food = "Chicken Biriyani";
+	FoodItems.Foods(Food);
+	Food = "Fish Curry";
+	FoodItems.Foods(Food);
+	Food = "Paneer Butter Masala";
+	FoodItems.Foods(Food);
+	Food = "Masala Dosa ";
+	FoodItems.Foods(Food);
+	Food = "Gulab Jamun";
+	FoodItems.Foods(Food);
+	Food = "Ice Cream";
+	FoodItems.Foods(Food);
+	Food = "Cold Coffee";
+	FoodItems.Foods(Food);
+	Food = "Mango Shake";
+	FoodItems.Foods(Food);
+	Food = "Sandwich";
+	FoodItems.Foods(Food);
+	Food = "Pizza";
+	FoodItems.Foods(Food);
+	Food = "Burger";
+	FoodItems.Foods(Food);
+	Food = "French Fries";
+	FoodItems.Foods(Food);
+	Food = "Samosa";
+	FoodItems.Foods(Food);
+	Food = "Butter Chicken";
+	FoodItems.Foods(Food);
+	Food = "Mutton Rogan Josh";
+	FoodItems.Foods(Food);
+	Food = "Egg Curry";
+	FoodItems.Foods(Food);
+	Food = "Pav Bhaji";
+	FoodItems.Foods(Food);
+	Food = "Rajma Chawal";
+	FoodItems.Foods(Food);
+	Food = "Gobi Manchurian";
+	FoodItems.Foods(Food);
+	Food = "Aloo Paratha";
+	FoodItems.Foods(Food);
+	Food = "Idli Sambar";
+	FoodItems.Foods(Food);
+	Food = "Chole Bhature";
+	FoodItems.Foods(Food);
+	Food = "Veg Biryani";
+	FoodItems.Foods(Food);
+	
+}}
