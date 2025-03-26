@@ -1,0 +1,54 @@
+public class PersonRunner{
+public static void main(String[] args){
+	String name = "Ravi";
+	PersonDetails.College(name);
+    name = "Sandhya";
+	PersonDetails.College(name);
+	name = "Meghana";
+	PersonDetails.College(name);
+	name = "Manjunath";
+	PersonDetails.College(name);
+    name = "Manasa";
+	PersonDetails.College(name);
+    name = "Sahana";
+	PersonDetails.College(name);
+	name = "Dhanu";
+	PersonDetails.College(name);
+	name = "BhargavGowda";
+	PersonDetails.College(name);
+	name = "Madhu";
+	PersonDetails.College(name);
+	name = "Sindhu";
+	PersonDetails.College(name);
+	name = "Pankaja";
+	PersonDetails.College(name);
+	name = "Harsha";
+	PersonDetails.College(name);
+	name = "Suraj";
+	PersonDetails.College(name);
+	name = "Pooja";
+	PersonDetails.College(name);
+	name = "Roshan";
+	PersonDetails.College(name);
+	name = "Rakshitha";
+	PersonDetails.College(name);
+	name = "Deepak";
+	PersonDetails.College(name);
+	name = "Neha";
+	PersonDetails.College(name);
+	name = "Sowndarya";
+	PersonDetails.College(name);
+	name = "Anusha";
+	PersonDetails.College(name);
+	name = "Sandeep";
+	PersonDetails.College(name);
+	name = "Rahul";
+	PersonDetails.College(name);
+	name = "Varun";
+	PersonDetails.College(name);
+	name = "Arjun";
+	PersonDetails.College(name);
+	name = "Sneha";
+	PersonDetails.College(name);
+}
+}

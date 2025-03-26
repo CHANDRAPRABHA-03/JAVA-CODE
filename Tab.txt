@@ -1,0 +1,6 @@
+class Tablets{
+    public static void details(String brand,String type,String colour,char size,int price){
+	
+	System.out.println("Brand:" + brand +  "Type:" + type + "Colour:" + colour + "Size:" + size +  "price:" + price );
+}
+}

@@ -1,0 +1,27 @@
+class Syringe{
+	
+	
+    public static void details(int quantity,String medicinename, String nursename,boolean status){
+	
+	System.out.println("quantity: " + quantity +   "medicine: " +medicinename +   "Nursename : " +nursename);
+    
+}  
+    public static void inject(boolean success) {
+   
+        System.out.println("Injection Given: " + (status ? "Yes" : "No"));
+	}
+
+ }
+  
+
+
+
+
+
+
+
+
+
+
+
+
